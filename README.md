@@ -57,66 +57,6 @@ I build end-to-end software projects across backend development, machine learnin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## Featured Projects
-
-### [BTC Prediction](https://github.com/ardilsungu/btc_prediction)
-
-An end-to-end machine learning service that predicts the direction of the next BTC/USDT candle across multiple timeframes.
-
-- Built a feature-engineering and chronological data-splitting pipeline for time-series data.
-- Trained and compared **XGBoost** and **Logistic Regression** models.
-- Developed a **FastAPI** inference service that retrieves live market data.
-- Added a lightweight browser dashboard for model and timeframe selection.
-
-`Python` `FastAPI` `XGBoost` `scikit-learn` `Optuna` `Pandas`
-
----
-
-### [Cyberbullying Detection with DistilBERT](https://github.com/ardilsungu/Cyberbullying-Detection-with-DistilBERT)
-
-A six-class NLP classification project for detecting cyberbullying in social-media text.
-
-- Compared TF-IDF-based **Logistic Regression**, **SVM**, and a fine-tuned **DistilBERT** model.
-- Developed a preprocessing pipeline for slang, emoticons, contractions, and obfuscated language.
-- Achieved approximately **86% test accuracy** with the fine-tuned transformer model.
-
-`Python` `PyTorch` `Transformers` `DistilBERT` `NLTK` `scikit-learn`
-
----
-
-### [Hand Gesture Virtual Mouse](https://github.com/ardilsungu/Hand-Gesture-Virtual-Mouse)
-
-A real-time computer-vision application that controls mouse actions through webcam-based hand gestures.
-
-- Extracts hand landmarks with **MediaPipe** and processes webcam frames with **OpenCV**.
-- Uses custom-collected gesture data and separate Random Forest models for one-hand and two-hand actions.
-- Supports cursor movement, clicking, dragging, scrolling, and screenshots.
-
-`Python` `OpenCV` `MediaPipe` `Random Forest` `PyAutoGUI`
-
----
-
-### [LuxuryMotion — Car Rental System](https://github.com/ardilsungu/Car-Rental-System-)
-
-A desktop car-rental management application with separate customer and administrator workflows.
-
-- Includes user registration, authentication, vehicle management, reservations, and cost calculation.
-- Stores application data using **SQLite** and **JDBC**.
-- Generates vehicle and rental reports as PDF files.
-
-`Java` `Java Swing` `SQLite` `JDBC` `iTextPDF`
-
----
-
-### [Service Marketplace API](https://github.com/ardilsungu/service-marketplace-api)
-
-A collaborative backend project for publishing services, managing appointments, and collecting ratings and reviews.
-
-- Structured with **Clean Architecture** and SOLID-oriented backend principles.
-- Uses **ASP.NET Core**, **Entity Framework Core**, **PostgreSQL**, and JWT authentication.
-- Includes real-time notifications with **SignalR** and containerized development with Docker Compose.
-
-`C#` `ASP.NET Core` `Entity Framework Core` `PostgreSQL` `JWT` `SignalR` `Docker`
 
 ## GitHub Activity
 
