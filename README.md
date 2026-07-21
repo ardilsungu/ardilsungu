@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ardıl Sungu
+# Ardıl Süngü
 
 ### Software Engineering Student | Backend & Machine Learning Developer
 
